@@ -1,0 +1,13 @@
+body{
+    background-image: url(./artworks-stHSoArHBq1qWR3z-NY104g-t500x500.jpg);
+    background-size: cover;
+    border: 2px inset rgb(0, 29, 190);
+    text-align: center;
+    width: 600px;
+    margin: auto;
+  
+    height: auto;
+}
+a{
+    color: rgb(255, 255, 255);
+}

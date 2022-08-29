@@ -1,0 +1,72 @@
+h1{
+    color: rgba(0, 0, 0, 0.801);
+  font-size: 70px;
+
+    
+
+ font-family: fantasy;
+   
+   text-align: center;
+  
+     
+    } 
+
+.day{
+    
+    text-align: center;
+    
+   font-style: oblique;
+}
+  
+     .kep{
+        text-align: center;
+      
+        
+         border: 2px solid rgb(211, 168, 246);
+         font-style: italic;
+        
+      
+     }
+     .wrap {
+         width: 800px 800px;
+         height: 260px;
+        
+       text-align: center;
+     }
+    
+    body{
+        background-image: url(./tabiyat.jpg);
+        background-size: cover;
+    }
+       a{
+         color: rgb(57, 255, 130);
+         text-align: end;
+         font-style: italic;
+        font-family: cursive;
+       }
+       p{
+         color: white;
+         text-align: center;
+
+       }
+       .wrap{
+      flex-wrap: wrap;
+       }
+
+   .wrap .box :nth-child(1){
+     border: 5px solid #62ffb6;
+     border-radius: 10%;
+
+   }
+   .wrap .box :nth-child(2){
+     border: 5px solid #62ffb6;
+     border-radius: 10%;
+   }
+   .wrap .box :nth-child(3){
+    border: 5px solid #62ffb6;
+    border-radius: 10%;
+   }
+.wrap .box :hover{
+  border-radius: 50%;
+  transition: .2s;
+}

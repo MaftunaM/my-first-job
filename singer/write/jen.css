@@ -1,0 +1,10 @@
+body{
+    background-image: url(./ffon..jpg);
+    background-size: cover;
+    border: 2px inset red;
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    height: 300;
+}
+
